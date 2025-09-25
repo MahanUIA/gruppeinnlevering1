@@ -21,7 +21,7 @@ Trym Schive: [trymsc@uia.no](mailto:trymsc@uia.no)
 | **Deliverable Title:** |  Gruppeinnleveringsoppgave 1 |
 | **Date:**  |   25/*09/25*  |
 
-   
+   eifjeifjeifj
  
 
 | We confirm hereby that we are not citing or using in other ways other’s work without stating that clearly and that all of the sources that we have used are listed in the references | Yes x  | No   |
