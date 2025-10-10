@@ -82,6 +82,21 @@ I et hvilket som helst selskap så er det viktig å ha prosedyrer og mekanismer 
 En viktig rutine vi kan inkludere i selskapets møter er en sånn "temperaturmåling" som vi kan begynne med. Dette vil si at på en fast tid hver uke så kan vi ha en runde sammen hvor folk kan si ifra om sine frustrasjoner med prosjektet og spørre spørsmål, dette er viktig sånn at vi kan gjøre frustrasjonen om til en rutine og ikke en dramatisk hendelse. Det er ofte konflikt når det kommer til å ta kontakt med hverandre, ofte er det noen som liker å være for seg selv og noen som liker å ha full kontakt med alle i teamet, det er viktig for samspill at alle er tilgjengelige. En løsning på dette problemet hadde vært å innføre en åpen-dør policy på selskapet hvor alle er til enhver tid klar for å få spørsmål og samtaler fra andre, dette er spesielt viktig for lederen av selskapet som i dette tilfellet er Erling å være åpen for alt og alle.  
 Vi kan også begynne å rangere konflikter med en type nivåmodell hvor små konflikter som er på et lavt nivå blir oppfordret til å løse problemet selv i gruppen, men et problem på nivå 2 kan bli eskalert til prosjektleder for å få hans mening om saken. Høyere nivåer vil eskaleres til folk høyere på selskapet som prosjekt-eier og sjef. En slik modell skaper forutsigbarhet. Alle vet hva som skjer når man er uenig, noe som fjerner usikkerhet og drama fra prosjekter sånn at samspillet blir bedre.  
 I et prosjekt er det også veldig viktig at alle er på samme side når det kommer til diverse beslutninger, det er viktig å få alle med på å stemme på disse beslutningene på et møte i begynnelsen av prosjektets levetid. Dette kan inkludere som for eksempel tekniske innspill fra IT og prototyper eller tanker om UI/UX fra designerne. Større endringer må diskuteres av alle spillerne for at dette skal bli mulig, som for eksempel hvis designet blir for avansert for utviklerne så er det viktig med en god dialog fra alle om hva som er innenfor budsjettet og mulig med den teknologien vi har tilgang til nå. Å få alle enige om samme ideen hjelper alle å skape et bedre bilde for hvordan prosjektet skal bli ledet framover. Dette er alle forslag til hvordan Erling kan unngå konflikter i selskapet og kan hjelpe selskapet å bli et tryggere og mer produktivt arbeidsmiljø.
+# **Håndtering av tidspress og "planleggingsfellen"**  {#håndtering-av-tidspress-og-"planleggingsfellen"}
+
+Et av de største utfordringene i oppstartsfasen av prosjekter er kombinasjonen av høyt tidspress og behovet for å utarbeide en detaljert plan. Dette kan føre til at prosjektleder og teamet låser seg for tidlig til løsninger eller arbeidsmåter som senere viser seg å være lite hensiktsmessige. For å motvirke denne såkalte planleggingsfellen bør prosjektlederen: 
+
+Arbeide iterativt, lage en overordnet milepælsplan tidlig, men holde detaljnivået bevisst lavt i starten. Etter hvert som prosjektet utvikler seg og usikkerheten reduseres, kan planen brytes ned i mer konkrete delplaner. 
+
+Prioritere kritiske avklaringer, bruke de første månedene på å kartlegge risiko, avhengigheter og nøkkelressurser i stedet for å bruke all tid på detaljer. Dette gir fleksibilitet og bedre beslutningsgrunnlag. 
+
+Innføre “planlagte revisjonspunkter”, legge inn faste tidspunkter for å evaluere fremdrift og justere planen (f.eks. hver tredje måned). Dette skaper rom for læring og endringer uten at prosjektet oppfattes som ustrukturert. 
+
+Balansere handlingspress med refleksjon, sikre at teamet ikke hopper rett til produksjon, men får tid til å forstå målene, brukernes behov og mulige tekniske begrensninger. En enkel regel er å alltid stille spørsmålet “Hva vet vi sikkert, og hva må vi teste først?” før man tar større beslutninger. 
+
+Kommunisere forventninger åpent, gjøre det tydelig for både prosjekteier og teamet at planen er et levende dokument, og at fleksibilitet er en styrke – ikke en svakhet – i komplekse, innovative prosjekter. 
+
+Gjennom disse tiltakene kan Erling balansere behovet for å vise fremdrift tidlig med å bevare handlingsrommet for læring og justering. Dette øker sannsynligheten for at prosjektet når sine mål uten å låses i uhensiktsmessige rammer. 
 
 # **Sikring av god kommunikasjon** {#sikring-av-god-kommunikasjon}
 
