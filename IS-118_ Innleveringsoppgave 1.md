@@ -1,3 +1,56 @@
+**Group number and student names: **     
+
+Ahmed Alhamod: [ahmedalh@uia.no](mailto:ahmedalh@uia.no)
+
+Mahan Baghdadi: [mahanb@uia.no](mailto:mahanb@uia.no)
+
+Abdulrahman Dabdoub: [abdulrahmd@uia.no](mailto:abdulrahmd@uia.no)
+
+Sebastian Van Est: [srest@uia.no](mailto:srest@uia.no)
+
+Fredrik Gjedrem: [fredriksg@uia.no](mailto:fredriksg@uia.no)
+
+Rune Liefting: [rjliefting@uia.no](mailto:rjliefting@uia.no)
+
+Trym Schive: [trymsc@uia.no](mailto:trymsc@uia.no)
+
+  
+
+| Course Code & Name:  | IS-118: Programmering og prosjektsamarbeid |
+| :---- | :---- |
+| **Deliverable Title:** |  Gruppeinnleveringsoppgave 1 |
+| **Date:**  |   25/*09/25*  |
+
+   
+ 
+
+| We confirm hereby that we are not citing or using in other ways other’s work without stating that clearly and that all of the sources that we have used are listed in the references | Yes x  | No   |
+| :---- | :---: | :---- |
+| We allow the use of this work for educational purposes | Yes **x** | No   |
+| We hereby confirm that every member of the group named on this page has contributed to this deliverable/product | Yes **x** | No   |
+
+ 
+
+**INNHOLDSFORTEGNELSE**
+
+**[Strategi for rekruttering og sammensetning	3](#strategi-for-rekruttering-og-sammensetning)**
+
+[**Design av det første møtet	4**](#design-av-det-første-møtet)
+
+[**Rammer for relasjonelle kontrakter	5**](#rammer-for-relasjonelle-kontrakter)
+
+[**Proaktive mekanismer for konflikthåndtering:	6**](#proaktive-mekanismer-for-konflikthåndtering:)
+
+[**Håndtering av tidspress og "planleggingsfellen"	7**](#håndtering-av-tidspress-og-"planleggingsfellen")
+
+[**Sikring av god kommunikasjon	8**](#sikring-av-god-kommunikasjon)
+
+[**Litteratur:	10**](#litteratur:)
+
+**IS-118: GRUPPEINNLEVERING 1**  
+**GRUPPE 22**
+
+Dette dokumentet er ment til å fungere som en oppstartspakke for prosjektleder Erling i sitt tildelte prosjekt i å utvikle en digital medborgerportal i en liten kommune sør i Norge. Hensikten med denne oppstartpakken er å gi Erling utfyllende veiledning og anbefalinger for hvordan han kan komme i gang med prosjektet på best mulig måte. De aspekter som skal belyses i oppstartspakken omhandler bl.a. bemanning, prosjektgruppens første møte, utforming av kontrakter, proaktiv konflikthåndtering, håndtering av tidspress, kommunikasjon mm.
 
 # **Strategi for rekruttering og sammensetning** {#strategi-for-rekruttering-og-sammensetning}
 
